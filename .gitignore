@@ -1,0 +1,4 @@
+.env
+newrelic_agent.log
+node_modules
+package-lock.json

@@ -1,0 +1,15 @@
+{
+  "name": "tracing-channel-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env index.js", 
+    "start:debug": "node --env-file .env --inspect-brk index.js" 
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "newrelic": "^12.15.0"
+  }
+}
